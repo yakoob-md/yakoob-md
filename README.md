@@ -295,15 +295,15 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/yakoob-md">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yakoob-md&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=020817&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Yakoob's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yakoob-md&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Yakoob's GitHub Stats" width="49%"/>
   </a>
   <a href="https://github.com/yakoob-md">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakoob-md&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=020817&title_color=38bdf8&text_color=94a3b8" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakoob-md&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakoob-md&theme=tokyonight&hide_border=true&background=020817&ring=38bdf8&fire=c084fc&currStreakLabel=818cf8&sideLabels=94a3b8&dates=475569" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=yakoob-md&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="55%"/>
 </p>
 
 <br/>
