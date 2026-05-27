@@ -293,14 +293,14 @@ flowchart LR
 
 <h3>📊 &nbsp;GitHub Analytics</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/yakoob-md">
     <img src="https://github-readme-stats.vercel.app/api?username=yakoob-md&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Yakoob's GitHub Stats" width="49%"/>
   </a>
   <a href="https://github.com/yakoob-md">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakoob-md&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yakoob-md&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="55%"/>
