@@ -1,42 +1,27 @@
-<div align="center">
+<!-- HEADER RENDERING -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20I'm%20Yakoob%20🕹️&animation=fadeIn&type=waving&color=gradient&height=125" alt="Hey Everyone Header" />
+</p>
 
-<!-- ═══════════════════════ ANIMATED BANNER ═══════════════════════ -->
+<!-- DYNAMIC TYPING COMPONENT -->
+<p align="center">
+  <a href="https://github.com/yakoob-md">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&lines=Fine-Tuning+%26+Deep+PEFT+Quantization+%F0%9F%A4%96;Voice-First+Vernacular+RAG+Architects+%F0%9F%8E%99%EF%B8%8F;Designing+Sub-Second+Inference+Pipelines+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:1e1b4b&height=200&section=header&text=Yakoob%20M.D.&fontSize=60&fontColor=38bdf8&fontAlignY=38&desc=Full-Stack%20%7C%20Generative%20AI%20Systems%20Engineer&descColor=94a3b8&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&lines=Fine-Tuning+%26+Deep+PEFT+Quantization+%F0%9F%A4%96;Creator+of+Vestora+Mutual+Fund+Co-Pilot+%F0%9F%92%B8;Voice-First+Vernacular+RAG+Architects+%F0%9F%8E%99%EF%B8%8F;Designing+Sub-Second+Inference+Pipelines+%E2%9A%A1)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
-
-<a href="https://linkedin.com/in/yakoob-md" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:dabaalover@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/yakoob-md?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<!-- ═══════════════════════ LIVE PROFILE METRICS ═══════════════════════ -->
-
-<img src="https://komarev.com/ghpvc/?username=yakoob-md&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/yakoob-md?style=flat-square&color=38bdf8&labelColor=0d1117&label=Followers" alt="Followers"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=flat-square&labelColor=0d1117" alt="Open to Work"/>
-
-</div>
+<!-- TEXTLESS MINIMAL CONTACT ICON BADGES -->
+<p align="center">
+  <a href="https://linkedin.com/in/yakoob-md" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="35" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dabaalover@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="35" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/yakoob-md?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub"/>
+  </a>
+</p>
 
 <br/>
 
@@ -164,9 +149,23 @@ graph TD
 <!-- ═══════════════════════ REAL-TIME ANALYTICS ═══════════════════════ -->
 
 <h3>📊 &nbsp;Real-Time GitHub Analytics</h3>
+
+<!-- PROFILE TROPHIES GRID -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakoob-md&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" alt="Yakoob GitHub Stats" width="48%" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakoob-md&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Yakoob Top Languages" width="48%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yakoob-md&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Yakoob Trophies" />
+  </a>
+</p>
+
+<!-- STATS CARDS & LANGUAGE DISTRIBUTION -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yakoob-md&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" alt="Yakoob GitHub Stats" width="48%" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakoob-md&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Yakoob Top Languages" width="48%" />
+</p>
+
+<!-- COMMITS WAVE ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakoob-md&bg_color=0f172a&color=38bdf8&line=a855f7&point=38bdf8&area=true&hide_border=true" alt="Yakoob Activity Graph" width="97%" />
 </p>
 
 <br/>
@@ -175,7 +174,7 @@ graph TD
 
 <h3>🐍 &nbsp;Contribution Journey</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yakoob-md/yakoob-md/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="100%" />
+  <img src="https://github.com/yakoob-md/yakoob-md/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Contribution Graph" width="100%" />
 </p>
 
 <br/>
