@@ -168,7 +168,7 @@ const yakoob = {
   <tr>
     <!-- V-Shield AI -->
     <td width="50%" valign="top">
-      <h3>🛡️ &nbsp;<a href="https://github.com/yakoob-md/v-shield-ai">V-Shield AI</a></h3>
+      <h3>🛡️ &nbsp;<a href="https://github.com/yakoob-md/V-Shield">V-Shield AI</a></h3>
       <p>
         <b>Voice-first anti-doping guardian</b> for Indian rural athletes. Answers Hinglish queries about WADA prohibited substances in under 800ms with deterministic risk-tagging (SAFE ✅ / CAUTION ⚠️ / BANNED ❌).
       </p>
