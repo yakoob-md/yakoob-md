@@ -1,6 +1,6 @@
-<!-- HEADER RENDERING -->
+<!-- LOCAL VECTOR BANNER HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20I'm%20Yakoob%20🕹️&animation=fadeIn&type=waving&color=gradient&height=125" alt="Hey Everyone Header" />
+  <img src="./banner.svg" width="100%" alt="Hey Everyone Header" />
 </p>
 
 <!-- DYNAMIC TYPING COMPONENT -->
@@ -150,22 +150,16 @@ graph TD
 
 <h3>📊 &nbsp;Real-Time GitHub Analytics</h3>
 
-<!-- PROFILE TROPHIES GRID -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yakoob-md&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Yakoob Trophies" />
+  <a href="https://github.com/yakoob-md">
+    <img src="https://img.shields.io/github/stars/yakoob-md?style=for-the-badge&color=38bdf8&label=Total%20Stars" alt="Stars" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/yakoob-md?tab=repositories">
+    <img src="https://img.shields.io/github/repos/yakoob-md?style=for-the-badge&color=a855f7&label=Public%20Repos" alt="Repositories" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/yakoob-md">
+    <img src="https://img.shields.io/github/issues-closed/yakoob-md?style=for-the-badge&color=38bdf8&label=Merged%20Issues" alt="Merged Issues" />
   </a>
-</p>
-
-<!-- STATS CARDS & LANGUAGE DISTRIBUTION -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakoob-md&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" alt="Yakoob GitHub Stats" width="48%" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakoob-md&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Yakoob Top Languages" width="48%" />
-</p>
-
-<!-- COMMITS WAVE ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakoob-md&bg_color=0f172a&color=38bdf8&line=a855f7&point=38bdf8&area=true&hide_border=true" alt="Yakoob Activity Graph" width="97%" />
 </p>
 
 <br/>
@@ -179,8 +173,7 @@ graph TD
 
 <br/>
 
-<!-- ═══════════════════════ WAVING GRADIENT FOOTER ═══════════════════════ -->
-
+<!-- LOCAL VECTOR BANNER FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:1e1b4b&height=80&section=footer" alt="Waving Footer" />
+  <img src="./footer.svg" width="100%" alt="Waving Footer" />
 </p>
