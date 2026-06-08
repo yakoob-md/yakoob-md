@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050014,30:140026,60:0b1026,100:050014&height=300&section=header&text=Yakoob%20M.D.&fontSize=86&fontColor=38bdf8&animation=fadeIn&fontAlignY=44&desc=Full-Stack%20%26%20Generative%20AI%20Systems%20Engineer&descColor=818cf8&descSize=20&descAlignY=65&stroke=38bdf8&strokeWidth=2" alt="Yakoob M.D. header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:050014,30:140026,60:0b1026,100:050014&amp;height=300&amp;section=header&amp;text=Mohammad%20Yakub&amp;fontSize=75&amp;fontColor=38bdf8&amp;animation=fadeIn&amp;fontAlignY=44&amp;desc=Full-Stack%20%7C%20Generative%20AI%20Systems%20Engineer&amp;descColor=818cf8&amp;descSize=20&amp;descAlignY=65&amp;stroke=38bdf8&amp;strokeWidth=2" alt="Mohammad Yakub header" />
 
 <br clear="both">
 
@@ -9,25 +9,25 @@
 <br/>
 
 <a href="https://github.com/yakoob-md">
-  <img src="https://komarev.com/ghpvc/?username=yakoob-md&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS&labelColor=020817" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yakoob-md&amp;style=for-the-badge&amp;color=38bdf8&amp;label=PROFILE+VIEWS&amp;labelColor=020817" alt="Profile views" />
 </a>
 <a href="https://github.com/yakoob-md">
-  <img src="https://img.shields.io/github/followers/yakoob-md?style=for-the-badge&logo=github&label=FOLLOWERS&color=818cf8&labelColor=020817" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/yakoob-md?style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS&amp;color=818cf8&amp;labelColor=020817" alt="GitHub followers" />
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/yakoob-md" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="32" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:dabaalover@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="32" alt="Gmail"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/yakoob-md" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="32" alt="GitHub"/>
 </a>&nbsp;&nbsp;
 <a href="https://intelex.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" height="32" alt="Portfolio"/>
 </a>
 
 </div>
@@ -368,4 +368,4 @@ flowchart LR
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED  FOOTER  SVG                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:140026,60:0b1026,100:050014&height=110&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050014,30:140026,60:0b1026,100:050014&amp;height=110&amp;section=footer" alt="Footer" />
