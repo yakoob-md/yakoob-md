@@ -1,36 +1,36 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              ANIMATED BANNER HEADER  (local SVG)                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Yakoob M.D. — Full-Stack & Generative AI Systems Engineer" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050014,30:140026,60:0b1026,100:050014&height=300&section=header&text=Yakoob%20M.D.&fontSize=86&fontColor=38bdf8&animation=fadeIn&fontAlignY=44&desc=Full-Stack%20%26%20Generative%20AI%20Systems%20Engineer&descColor=818cf8&descSize=20&descAlignY=65&stroke=38bdf8&strokeWidth=2" alt="Yakoob M.D. header" />
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   DYNAMIC TYPING  ANIMATION                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <a href="https://github.com/yakoob-md">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&lines=Building+AI+systems+that+solve+real+human+problems+%F0%9F%A4%96;Voice-First+Vernacular+RAG+for+1B+rural+Indians+%F0%9F%8E%99%EF%B8%8F;QLoRA+PEFT+fine-tuning+on+a+single+Kaggle+T4+GPU+%E2%9A%A1;Fintech+intelligence+%7C+Wealth+leak+detection+%F0%9F%92%B8;Sub-second+inference+%7C+Latency-first+engineer+%E2%8F%B1%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</p>
+<br clear="both">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         CONTACT BADGES                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <a href="https://linkedin.com/in/yakoob-md" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:dabaalover@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/yakoob-md" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://intelex.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=17&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI+systems+that+solve+real+human+problems+%F0%9F%A4%96;Voice-First+Vernacular+RAG+for+1B+rural+Indians+%F0%9F%8E%99%EF%B8%8F;QLoRA+PEFT+fine-tuning+on+a+single+Kaggle+T4+GPU+%E2%9A%A1;Fintech+intelligence+%7C+Wealth+leak+detection+%F0%9F%92%B8;Sub-second+inference+%7C+Latency-first+engineer+%E2%8F%B1%EF%B8%8F)](https://github.com/yakoob-md)
+
+<br/>
+
+<a href="https://github.com/yakoob-md">
+  <img src="https://komarev.com/ghpvc/?username=yakoob-md&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS&labelColor=020817" alt="Profile views" />
+</a>
+<a href="https://github.com/yakoob-md">
+  <img src="https://img.shields.io/github/followers/yakoob-md?style=for-the-badge&logo=github&label=FOLLOWERS&color=818cf8&labelColor=020817" alt="GitHub followers" />
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/yakoob-md" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:dabaalover@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/yakoob-md" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"/>
+</a>&nbsp;&nbsp;
+<a href="https://intelex.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Portfolio"/>
+</a>
+
+</div>
 
 <br/>
 
@@ -368,6 +368,4 @@ flowchart LR
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED  FOOTER  SVG                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="./footer.svg" width="100%" alt="Footer — Built with Purpose · Deployed with Precision · Driven by Curiosity"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:140026,60:0b1026,100:050014&height=110&section=footer" alt="Footer" />
