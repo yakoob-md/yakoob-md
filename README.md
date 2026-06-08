@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:050014,30:140026,60:0b1026,100:050014&amp;height=300&amp;section=header&amp;text=Mohammad%20Yakub&amp;fontSize=75&amp;fontColor=38bdf8&amp;animation=fadeIn&amp;fontAlignY=44&amp;desc=Full-Stack%20%7C%20Generative%20AI%20Systems%20Engineer&amp;descColor=818cf8&amp;descSize=20&amp;descAlignY=65&amp;stroke=38bdf8&amp;strokeWidth=2" alt="Mohammad Yakub header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:050014,30:140026,60:0b1026,100:050014&amp;height=300&amp;section=header&amp;text=Mohammad%20Yakub&amp;fontSize=75&amp;fontColor=38bdf8&amp;animation=fadeIn&amp;fontAlignY=44&amp;desc=Generative%20AI%20Systems%20Engineer&amp;descColor=818cf8&amp;descSize=20&amp;descAlignY=65&amp;stroke=38bdf8&amp;strokeWidth=2" alt="Mohammad Yakub header" />
 
 <br clear="both">
 
